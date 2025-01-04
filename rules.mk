@@ -1,0 +1,3 @@
+DEFAULT_FOLDER = crkbd/rev1
+BOOTLOADER = atmel-dfu
+MOUSEKEY_ENABLE = yes
