@@ -20,6 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#define SPLIT_LAYER_STATE_ENABLE
+#define SPLIT_LED_STATE_ENABLE
+
 //#define USE_MATRIX_I2C
 
 //#define QUICK_TAP_TERM 0

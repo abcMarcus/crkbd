@@ -5,7 +5,8 @@
         "device_version": "0.0.1"
     },
     "features": {
-        "rgblight": true
+        "rgblight": false,
+        "rgb_matrix": true
     },
     "build": {
         "lto": true
@@ -65,7 +66,8 @@
             {"x": 139, "y": 16, "flags": 2},
             {"x": 174, "y": 13, "flags": 2},
             {"x": 208, "y": 20, "flags": 2},
-            {"x": 208, "y": 38, "flags": 2}, {"x": 174, "y": 48, "flags": 2},
+            {"x": 208, "y": 38, "flags": 2},
+            {"x": 174, "y": 48, "flags": 2},
             {"x": 139, "y": 52, "flags": 2},
             {"matrix": [7, 5], "x": 129, "y": 63, "flags": 1},
             {"matrix": [6, 5], "x": 139, "y": 39, "flags": 4},
